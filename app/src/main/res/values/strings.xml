@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DatabindingApp</string>
+    <string name="update_from_here">Update from here</string>
 </resources>
